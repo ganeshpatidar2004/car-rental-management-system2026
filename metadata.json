@@ -1,0 +1,6 @@
+{
+  "name": "Car Rental Management System",
+  "description": "Full-Stack Car Rental Management System with Spring Boot 3, Java 17, React 18, and MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
